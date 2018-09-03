@@ -6,9 +6,9 @@ and project By Yuki Inoue.
 
  * Reduced       
  * Line     
- * Bianry   
+ * Binary   
 
  It Contains  
- > 16,382 Sample per folder  
- > ~ 0.6 GB per folder
+ > 39,683 Sample per folder  
+ > ~ 1.4 GB per folder
 
